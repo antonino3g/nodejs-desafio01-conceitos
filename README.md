@@ -16,7 +16,7 @@
 <h2> Quest ^^</h2>
 <h4>by <a href="https://station.rocketseat.com.br" target="_blank" >RocketSeat!</a></h4>
 
-Rotas 
+<b>Rotas</b> 
 <li><b>/:</b> Rota inicial que renderiza uma página com um formulário com um único campo ageque representa a idade do usuário;
 <li><b>/check:</b> Rota chamada pelo formulário da página inicial via método POST que checa se aidade do usuário é maior que 18 e o redireciona para a rota /major, caso contrário oredireciona para a rota /minor (Lembre de enviar a idade como Query Param noredirecionamento);
 <li><b>/major:</b> Rota que renderiza uma página com o texto: Você é maior de idade epossui x anos, onde x deve ser o valor informado no input do formulário;
