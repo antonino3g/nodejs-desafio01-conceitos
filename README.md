@@ -14,7 +14,7 @@
 <ul>3. Acesse <a href="http://localhost:3000/" target="_blank" >http://localhost:3000/</a> em seu navegador preferido.</ul>
 
 <h2> Quest ^^</h2>
-<h4>by <a href="https://station.rocketseat.com.br" target="_blank" >RocketSeat!</a></h4>
+<h3>by <a href="https://station.rocketseat.com.br" target="_blank" >RocketSeat!</a></h3>
 
 <b>Rotas</b> 
 <li><b>/:</b> Rota inicial que renderiza uma página com um formulário com um único campo ageque representa a idade do usuário;
