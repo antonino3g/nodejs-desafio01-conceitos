@@ -1,6 +1,6 @@
 <h2>Conceitos aplicados</h2>
 <li>Yarn</li>
-<li>EXpressJS</li>
+<li>ExpressJS</li>
 <li>Nodemon</li>
 <li>EditorConfig</li>
 <li>ESLint</li>
